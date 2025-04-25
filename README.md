@@ -19,7 +19,7 @@ Este é um script de automação em Python para gerenciar conexões VPN. O scrip
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/rotina-vpn_2.0.git
+git clone https://github.com/ViniciusBaumann/rotina-vpn_2.0.git
 cd rotina-vpn_2.0
 ```
 
@@ -46,4 +46,4 @@ O programa iniciará com uma interface gráfica mostrando o status atual da auto
 
 ## Contribuição
 
-Sinta-se à vontade para contribuir com o projeto através de Pull Requests ou reportando issues. 
+Sinta-se à vontade para contribuir com o projeto através de Pull Requests ou reportando issues.
